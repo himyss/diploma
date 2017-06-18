@@ -1,0 +1,54 @@
+\usepackage[left=2.5cm,right=1.5cm,
+top=2cm,bottom=2cm,bindingoffset=0cm]{geometry} % вроде бы поля
+
+\usepackage[utf8]{inputenc} % размер
+\textwidth  160mm
+\textheight 230mm
+\topmargin -24pt
+\oddsidemargin -5mm
+\evensidemargin-5mm
+\setlength{\parindent}{1cm}
+
+\usepackage{setspace}  % межстрочный интервал
+\usepackage{amsmath}
+% полуторный интервал
+\onehalfspacing
+\renewcommand{\rmdefault}{ftm} % Times New Roman
+
+\title{Diploma}
+\author{IvanM}
+\date{april 2017}
+
+\usepackage[T2A]{fontenc} % указывает внутреннюю кодировку TeX
+
+\usepackage[english,russian]{babel}   %% загружает пакет многоязыковой вёрстки
+%\usepackage{fontspec}      %% подготавливает загрузку шрифтов Open Type, True Type и др.
+%\defaultfontfeatures{Ligatures={TeX},Renderer=Basic}  %% свойства шрифтов по умолчанию
+%\setmainfont[Ligatures={TeX,Historic}]{Times New Roman} %% задаёт основной шрифт документа
+%\setsansfont{Comic Sans MS}                    %% задаёт шрифт без засечек
+%\setmonofont{Courier New}
+\usepackage{indentfirst}
+%\frenchspacing
+
+%\usepackage[intlimits]{amsmath}
+
+%%% Работа с картинками
+\usepackage[labelformat=simple]{subcaption}
+% метка subfigure: "(а)" вместо дефолтного "а"
+\renewcommand\thesubfigure{(\alph{subfigure})} 
+\usepackage{array,graphicx,caption}
+%\usepackage{graphicx}  % Для вставки рисунков
+\usepackage{color}		%для наверно цветов
+%\usepackage{wrapfig} % Обтекание рисунков текстом
+
+\renewcommand{\epsilon}{\ensuremath{\varepsilon}}
+\renewcommand{\phi}{\ensuremath{\varphi}}
+\renewcommand{\kappa}{\ensuremath{\varkappa}}
+\renewcommand{\le}{\ensuremath{\leqslant}}
+\renewcommand{\leq}{\ensuremath{\leqslant}}
+\renewcommand{\ge}{\ensuremath{\geqslant}}
+\renewcommand{\geq}{\ensuremath{\geqslant}}
+\renewcommand{\emptyset}{\varnothing}
+
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\er}{\textmd{EXPERTroot}}
