@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.6.13)  18 JUN 2017 11:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.6.13)  19 JUN 2017 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -657,6 +657,160 @@ Package babel Info: Making " an active character on input line 111.
 (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count103
+\calc@Bcount=\count104
+\calc@Adimen=\dimen121
+\calc@Bdimen=\dimen122
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count105
+\calc@Cskip=\skip48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count106
+\l_MT_multwidth_dim=\dimen123
+\origjot=\skip49
+\l_MT_shortvdotswithinadjustabove_dim=\dimen124
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen125
+\l_MT_above_intertext_sep=\dimen126
+\l_MT_below_intertext_sep=\dimen127
+\l_MT_above_shortintertext_sep=\dimen128
+\l_MT_below_shortintertext_sep=\dimen129
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup7
+\symitalic=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup9
+\symAMSb=\mathgroup10
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen130
+\extrarowheight=\dimen131
+\NC@list=\toks23
+\extratabsurround=\skip50
+\backup@length=\skip51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box28
+\sift@deathcycles=\count107
+\@vwid@loff=\dimen132
+\@vwid@roff=\dimen133
+)
+\c@taburow=\count108
+\tabu@nbcols=\count109
+\tabu@cnt=\count110
+\tabu@Xcol=\count111
+\tabu@alloc=\count112
+\tabu@nested=\count113
+\tabu@target=\dimen134
+\tabu@spreadtarget=\dimen135
+\tabu@naturalX=\dimen136
+\tabucolX=\dimen137
+\tabu@Xsum=\dimen138
+\extrarowdepth=\dimen139
+\abovetabulinesep=\dimen140
+\belowtabulinesep=\dimen141
+\tabustrutrule=\dimen142
+\tabu@thebody=\toks24
+\tabu@footnotes=\toks25
+\tabu@box=\box29
+\tabu@arstrutbox=\box30
+\tabu@hleads=\box31
+\tabu@vleads=\box32
+\tabu@cellskip=\skip52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen143
+\lightrulewidth=\dimen144
+\cmidrulewidth=\dimen145
+\belowrulesep=\dimen146
+\belowbottomsep=\dimen147
+\aboverulesep=\dimen148
+\abovetopsep=\dimen149
+\cmidrulesep=\dimen150
+\cmidrulekern=\dimen151
+\defaultaddspace=\dimen152
+\@cmidla=\count114
+\@cmidlb=\count115
+\@aboverulesep=\dimen153
+\@belowrulesep=\dimen154
+\@thisruleclass=\count116
+\@lastruleclass=\count117
+\@thisrulewidth=\dimen155
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cmap/cmap.sty
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+
+
+Package cmap Warning: fontenc already loaded - some fonts may be unprocessed.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
+Package: mathtext 1999/01/28 v1.0 transparent text-and-math defs
+LaTeX Info: Redefining \halign on input line 111.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
 
@@ -666,26 +820,18 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen121
-\captionmargin@=\dimen122
-\captionwidth=\dimen123
-\caption@tempdima=\dimen124
-\caption@indent=\dimen125
-\caption@parindent=\dimen126
-\caption@hangindent=\dimen127
+\captionmargin=\dimen156
+\captionmargin@=\dimen157
+\captionwidth=\dimen158
+\caption@tempdima=\dimen159
+\caption@indent=\dimen160
+\caption@parindent=\dimen161
+\caption@hangindent=\dimen162
 )
-\c@ContinuedFloat=\count103
+\c@ContinuedFloat=\count118
 )
-\c@subfigure=\count104
-\c@subtable=\count105
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
-\col@sep=\dimen128
-\extrarowheight=\dimen129
-\NC@list=\toks23
-\extratabsurround=\skip46
-\backup@length=\skip47
+\c@subfigure=\count119
+\c@subtable=\count120
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
@@ -710,10 +856,10 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count106
+\Gread@gobject=\count121
 ))
-\Gin@req@height=\dimen130
-\Gin@req@width=\dimen131
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
@@ -724,7 +870,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 147.
 )) (./main.aux
 (./expert.aux) (./measurements.aux) (./simulations.aux) (./dataprocessing.aux)
-(./results.aux) (./resultsSIM.aux) (./bibliography.aux))
+(./results.aux) (./resultsSIM.aux) (./vyvody.aux) (./bibliography.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
@@ -741,11 +887,11 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Try loading font information for T2A+ftm on input line 8.
-LaTeX Font Info:    No file T2Aftm.fd. on input line 8.
+LaTeX Font Info:    Try loading font information for T2A+ptm on input line 8.
+LaTeX Font Info:    No file T2Aptm.fd. on input line 8.
 
 
-LaTeX Font Warning: Font shape `T2A/ftm/m/n' undefined
+LaTeX Font Warning: Font shape `T2A/ptm/m/n' undefined
 (Font)              using `T2A/cmr/m/n' instead on input line 8.
 
 *geometry* driver: auto-detecting
@@ -782,21 +928,22 @@ LaTeX Font Warning: Font shape `T2A/ftm/m/n' undefined
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+<<t2a.cmap>>
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count107
-\scratchdimen=\dimen132
-\scratchbox=\box28
-\nofMPsegments=\count108
-\nofMParguments=\count109
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count110
-\MPscratchDim=\dimen133
-\MPnumerator=\count111
-\makeMPintoPDFobject=\count112
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count122
+\scratchdimen=\dimen165
+\scratchbox=\box33
+\nofMPsegments=\count123
+\nofMParguments=\count124
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count125
+\MPscratchDim=\dimen166
+\MPnumerator=\count126
+\makeMPintoPDFobject=\count127
+\everyMPtoPDFconversion=\toks27
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -845,13 +992,47 @@ e
 ))
 (./titlepage.tex
 
-LaTeX Font Warning: Font shape `T2A/ftm/bx/n' undefined
-(Font)              using `T2A/ftm/m/n' instead on input line 4.
+LaTeX Font Warning: Font shape `T2A/ptm/bx/n' undefined
+(Font)              using `T2A/ptm/m/n' instead on input line 4.
 
 
-LaTeX Font Warning: Font shape `T2A/ftm/bx/it' undefined
-(Font)              using `T2A/ftm/bx/n' instead on input line 6.
+LaTeX Font Warning: Font shape `T2A/ptm/bx/it' undefined
+(Font)              using `T2A/ptm/bx/n' instead on input line 6.
 
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 21
+.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)<<ot1.cmap>>
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 21
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)<<oml.cmap>>
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 21
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)<<oms.cmap>>
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 21
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)<<omx.cmap>>
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 21.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
 
 Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
@@ -888,24 +1069,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--46
  []
 
 
-LaTeX Font Warning: Font shape `T2A/ftm/m/it' undefined
-(Font)              using `T2A/ftm/m/n' instead on input line 53.
+LaTeX Font Warning: Font shape `T2A/ptm/m/it' undefined
+(Font)              using `T2A/ptm/m/n' instead on input line 53.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./main.toc
-LaTeX Font Info:    Try loading font information for OT1+ftm on input line 1.
-LaTeX Font Info:    No file OT1ftm.fd. on input line 1.
-
-
-LaTeX Font Warning: Font shape `OT1/ftm/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 1.
-
-)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./main.toc)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [2]) (./vvedenie.tex
+ [2])
+(./annotacia.tex [3]) (./vvedenie.tex [4]
 Package epstopdf Info: Source file: <NuclearMap.eps>
 (epstopdf)                    date: 2017-06-13 19:51:42
 (epstopdf)                    size: 285393 bytes
@@ -917,104 +1091,104 @@ o.pdf NuclearMap.eps>
 (epstopdf)             \includegraphics on input line 16.
 Package epstopdf Info: Output file is already uptodate.
 
-<NuclearMap-eps-converted-to.pdf, id=12, 458.71375pt x 303.1325pt>
+<NuclearMap-eps-converted-to.pdf, id=28, 458.71375pt x 303.1325pt>
 File: NuclearMap-eps-converted-to.pdf Graphic file (type pdf)
 
 <use NuclearMap-eps-converted-to.pdf>
 Package pdftex.def Info: NuclearMap-eps-converted-to.pdf used on input line 16.
 
 (pdftex.def)             Requested size: 455.24408pt x 300.85605pt.
- [3] [4 <./NuclearMap-eps-converted-to.pdf>]
+ [5 <./NuclearMap-eps-converted-to.pdf>]
 
-LaTeX Warning: Citation `flnr' on page 5 undefined on input line 39.
+LaTeX Warning: Citation `flnr' on page 6 undefined on input line 39.
 
-[5]
+[6]
 Overfull \hbox (5.17204pt too wide) in paragraph at lines 47--48
-\T2A/ftm/bx/n/12 ков ра-дио-ак-тив-ных изо-то-пов об-ла-да-ет ме-тод раз-де-ле-
+\T2A/ptm/bx/n/12 ков ра-дио-ак-тив-ных изо-то-пов об-ла-да-ет ме-тод раз-де-ле-
 ния на ле-ту (In-Flight Separation).
  []
 
-) [6]
+) [7]
 \openout2 = `expert.aux'.
 
- (./expert.tex <FRS.png, id=33, 1274.7625pt x 676.5275pt>
+ (./expert.tex <FRS.png, id=43, 1274.7625pt x 676.5275pt>
 File: FRS.png Graphic file (type png)
  <use FRS.png>
 Package pdftex.def Info: FRS.png used on input line 24.
 (pdftex.def)             Requested size: 455.24408pt x 241.59866pt.
 
-[7
+[8
 
- <./FRS.png>] <identification.png, id=40, 689.57625pt x 586.19pt>
+ <./FRS.png>] <identification.png, id=49, 689.57625pt x 586.19pt>
 File: identification.png Graphic file (type png)
 
 <use identification.png>
 Package pdftex.def Info: identification.png used on input line 58.
 (pdftex.def)             Requested size: 455.24408pt x 386.99393pt.
- [8 <./identification.png>]
-<frsexpert.png, id=45, 1495.5875pt x 682.55pt>
+ [9 <./identification.png>]
+<frsexpert.png, id=54, 1495.5875pt x 682.55pt>
 File: frsexpert.png Graphic file (type png)
  <use frsexpert.png>
 Package pdftex.def Info: frsexpert.png used on input line 75.
 (pdftex.def)             Requested size: 455.24408pt x 207.75565pt.
- [9 <./frsexpert.png>]
+ [10 <./frsexpert.png>]
 Overfull \hbox (32.5784pt too wide) in paragraph at lines 85--86
-[]\T2A/ftm/bx/n/12 Детектор ней-тро-нов с вы-со-ким уг-ло-вым раз-ре-ше-ни-ем N
+[]\T2A/ptm/bx/n/12 Детектор ней-тро-нов с вы-со-ким уг-ло-вым раз-ре-ше-ни-ем N
 euRad (Neutron Radioactivity).
  []
 
 
 Overfull \hbox (17.46281pt too wide) in paragraph at lines 86--88
-[]\T2A/ftm/bx/n/12 Детектор гам-ма кван-тов GADAST (Gamma-ray Detectors Around 
+[]\T2A/ptm/bx/n/12 Детектор гам-ма кван-тов GADAST (Gamma-ray Detectors Around 
 Secondary Target).
  []
 
 
 Overfull \hbox (27.52982pt too wide) in paragraph at lines 88--89
-[]\T2A/ftm/bx/n/12 Время-проекционная оп-ти-че-ская ка-ме-ра (OTPC) - устрой-ст
+[]\T2A/ptm/bx/n/12 Время-проекционная оп-ти-че-ская ка-ме-ра (OTPC) - устрой-ст
 во для 3D-реконструкции
  []
 
 
 Overfull \hbox (6.16402pt too wide) in paragraph at lines 88--89
-\T2A/ftm/bx/n/12 им-план-ти-ро-ван-ных мно-го-ча-стич-ных рас-па-дов ионов в ко
+\T2A/ptm/bx/n/12 им-план-ти-ро-ван-ных мно-го-ча-стич-ных рас-па-дов ионов в ко
 -неч-ной фо-каль-ной плос-
  []
 
-LaTeX Font Info:    Try loading font information for OMS+ftm on input line 94.
-LaTeX Font Info:    No file OMSftm.fd. on input line 94.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 94.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 94.
 
-LaTeX Font Warning: Font shape `OMS/ftm/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 94.
-
-<expert.png, id=50, 3972.8425pt x 1912.14375pt>
+<expert.png, id=59, 3972.8425pt x 1912.14375pt>
 File: expert.png Graphic file (type png)
  <use expert.png>
 Package pdftex.def Info: expert.png used on input line 107.
 (pdftex.def)             Requested size: 455.24408pt x 219.08954pt.
- [10] [11 <./expert.png>] <neurad.png, id=58, 1032.85875pt x 358.33875pt>
+ [11] [12 <./expert.png>] <neurad.png, id=67, 1032.85875pt x 358.33875pt>
 File: neurad.png Graphic file (type png)
  <use neurad.png>
 Package pdftex.def Info: neurad.png used on input line 199.
 (pdftex.def)             Requested size: 455.24408pt x 157.94292pt.
 
-[12 <./neurad.png>]) [13]
+[13 <./neurad.png>]) [14]
 \openout2 = `measurements.aux'.
 
  (./measurements.tex
 Overfull \hbox (19.09998pt too wide) in paragraph at lines 5--6
-[]\T2A/ftm/bx/n/12 Первый экс-пе-ри-мент для опре-де-ле-ния вре-мен-ных ха-рак-
+[]\T2A/ptm/bx/n/12 Первый экс-пе-ри-мент для опре-де-ле-ния вре-мен-ных ха-рак-
 те-ри-стик де-тек-то-ра NeuRad
  []
 
-<neuradfibers.png, id=67, 676.5275pt x 449.68pt>
+<neuradfibers.png, id=77, 676.5275pt x 449.68pt>
 File: neuradfibers.png Graphic file (type png)
  <use neuradfibers.png>
 Package pdftex.def Info: neuradfibers.png used on input line 12.
 (pdftex.def)             Requested size: 236.72885pt x 157.34918pt.
 
-<H9500.png, id=68, 580.1675pt x 420.57124pt>
+<H9500.png, id=78, 580.1675pt x 420.57124pt>
 File: H9500.png Graphic file (type png)
  <use H9500.png>
 Package pdftex.def Info: H9500.png used on input line 14.
@@ -1024,44 +1198,45 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 11--18
  [][] 
  []
 
-[14
+[15
 
 
  <./neuradfibers.png> <./H9500.png>]
-<NeuRadexperiment.png, id=74, 1534.73375pt x 643.40375pt>
+<NeuRadexperiment.png, id=84, 1534.73375pt x 643.40375pt>
 File: NeuRadexperiment.png Graphic file (type png)
 
 <use NeuRadexperiment.png>
 Package pdftex.def Info: NeuRadexperiment.png used on input line 36.
 (pdftex.def)             Requested size: 455.24408pt x 190.84311pt.
- <signal1.png, id=75, 1001.7425pt x 576.1525pt>
+ <signal1.png, id=85, 1001.7425pt x 576.1525pt>
 File: signal1.png Graphic file (type png)
 
 <use signal1.png>
 Package pdftex.def Info: signal1.png used on input line 54.
 (pdftex.def)             Requested size: 455.24408pt x 261.8333pt.
- [15 <./NeuRadexperiment.png>] [16 <./signal1.png>]
-<gsiexp.png, id=83, 1520.68124pt x 893.3375pt>
+ [16 <./NeuRadexperiment.png>] [17 <./signal1.png>]
+<gsiexp.png, id=93, 1520.68124pt x 893.3375pt>
 File: gsiexp.png Graphic file (type png)
  <use gsiexp.png>
 Package pdftex.def Info: gsiexp.png used on input line 77.
 (pdftex.def)             Requested size: 227.62204pt x 133.70859pt.
-) [17 <./gsiexp.png>]
+) [18 <./gsiexp.png>]
 \openout2 = `simulations.aux'.
 
  (./simulations.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+
 Overfull \hbox (19.3615pt too wide) in paragraph at lines 4--8
-\T2A/ftm/bx/n/12 дјн-ных экс-пе-ри-мен-тов, ко-то-рое про-во-ди-лось ис-поль-зу
+\T2A/ptm/bx/n/12 дјн-ных экс-пе-ри-мен-тов, ко-то-рое про-во-ди-лось ис-поль-зу
 я про-грамм-ный па-кет EXPERTroot
  []
 
-
-Overfull \hbox (0.7551pt too wide) in paragraph at lines 17--20
-\T2A/ftm/bx/n/12 где $\OML/cmm/m/it/12 Q[]$ \T2A/ftm/bx/n/12 - ко-эф-фи-ци-ент 
-про-пор-ци-о-наль-но-сти, на-зы-ва-ю-щий-ся квенчинг-фактором.
- []
-
-[18
+[19
 
 
 ]
@@ -1095,41 +1270,41 @@ LaTeX Warning: Command \cyrerev invalid in math mode on input line 31.
 
 LaTeX Warning: Command \CYRV invalid in math mode on input line 31.
 
-Missing character: There is no ф in font cmr8!
-Missing character: There is no о in font cmr8!
-Missing character: There is no т in font cmr8!
-Missing character: There is no о in font cmr8!
-Missing character: There is no н in font cmr8!
-Missing character: There is no о in font cmr8!
-Missing character: There is no в in font cmr8!
-Missing character: There is no М in font cmr8!
-Missing character: There is no э in font cmr8!
-Missing character: There is no В in font cmr8!
-[19] [20] <sim.png, id=102, 987.69pt x 368.37625pt>
+Missing character: There is no ф in font zptmcm7t!
+Missing character: There is no о in font zptmcm7t!
+Missing character: There is no т in font zptmcm7t!
+Missing character: There is no о in font zptmcm7t!
+Missing character: There is no н in font zptmcm7t!
+Missing character: There is no о in font zptmcm7t!
+Missing character: There is no в in font zptmcm7t!
+Missing character: There is no М in font zptmcm7t!
+Missing character: There is no э in font zptmcm7t!
+Missing character: There is no В in font zptmcm7t!
+[20] [21] <sim.png, id=111, 987.69pt x 368.37625pt>
 File: sim.png Graphic file (type png)
  <use sim.png>
 Package pdftex.def Info: sim.png used on input line 80.
 (pdftex.def)             Requested size: 455.24408pt x 169.78676pt.
 
-<simsignal.png, id=103, 1643.13875pt x 610.28pt>
+<simsignal.png, id=112, 1643.13875pt x 610.28pt>
 File: simsignal.png Graphic file (type png)
  <use simsignal.png>
 Package pdftex.def Info: simsignal.png used on input line 90.
 (pdftex.def)             Requested size: 455.24408pt x 169.07999pt.
- [21 <./sim.png> <./simsignal.png>]) [22]
+ [22 <./sim.png> <./simsignal.png>]) [23]
 \openout2 = `dataprocessing.aux'.
 
  (./dataprocessing.tex
-<LED1.png, id=112, 1271.75125pt x 755.82375pt>
+<LED1.png, id=121, 1271.75125pt x 755.82375pt>
 File: LED1.png Graphic file (type png)
  <use LED1.png>
 Package pdftex.def Info: LED1.png used on input line 26.
 (pdftex.def)             Requested size: 455.24408pt x 270.56245pt.
- [23
+ [24
 
 
 ]
-<cfd.png, id=116, 830.35219pt x 359.84438pt>
+<cfd.png, id=125, 830.35219pt x 359.84438pt>
 File: cfd.png Graphic file (type png)
  <use cfd.png>
 Package pdftex.def Info: cfd.png used on input line 42.
@@ -1138,19 +1313,19 @@ Package pdftex.def Info: cfd.png used on input line 42.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24 <./LED1.png>]
+[25 <./LED1.png>]
 Overfull \hbox (1.48654pt too wide) in paragraph at lines 55--58
-[]\T2A/ftm/bx/n/12 Для ил-лю-стра-ции, ис-ход-ный сиг-нал за-пи-сан-ный оциф-ро
+[]\T2A/ptm/bx/n/12 Для ил-лю-стра-ции, ис-ход-ный сиг-нал за-пи-сан-ный оциф-ро
 -вы-ва-ю-щим устрой-ством
  []
 
-<originalsignalform.png, id=121, 1206.5075pt x 708.6475pt>
+<originalsignalform.png, id=131, 1206.5075pt x 708.6475pt>
 File: originalsignalform.png Graphic file (type png)
 
 <use originalsignalform.png>
 Package pdftex.def Info: originalsignalform.png used on input line 75.
 (pdftex.def)             Requested size: 227.62204pt x 133.69287pt.
- <CFDform.png, id=122, 1201.48875pt x 712.6625pt>
+ <CFDform.png, id=132, 1201.48875pt x 712.6625pt>
 File: CFDform.png Graphic file (type png)
 
 <use CFDform.png>
@@ -1164,7 +1339,7 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 74--78
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[25 <./cfd.png (PNG copy)>] <noise.png, id=127, 1925.1925pt x 991.705pt>
+[26 <./cfd.png (PNG copy)>] <noise.png, id=136, 1925.1925pt x 991.705pt>
 File: noise.png Graphic file (type png)
 
 <use noise.png>
@@ -1174,8 +1349,8 @@ Package pdftex.def Info: noise.png used on input line 101.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[26 <./originalsignalform.png> <./CFDform.png>]
-<scintSHAPE.png, id=134, 424.58624pt x 219.82124pt>
+[27 <./originalsignalform.png> <./CFDform.png>]
+<scintSHAPE.png, id=142, 424.58624pt x 219.82124pt>
 File: scintSHAPE.png Graphic file (type png)
  <use scintSHAPE.png>
 Package pdftex.def Info: scintSHAPE.png used on input line 127.
@@ -1184,36 +1359,36 @@ Package pdftex.def Info: scintSHAPE.png used on input line 127.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [27 <./noise.png>] [28 <./scintSHAPE.png>]
+) [28 <./noise.png>] [29 <./scintSHAPE.png>]
 \openout2 = `results.aux'.
 
  (./results.tex
-<integralform.png, id=141, 577.15625pt x 348.30125pt>
+<integralform.png, id=149, 577.15625pt x 348.30125pt>
 File: integralform.png Graphic file (type png)
  <use integralform.png>
 Package pdftex.def Info: integralform.png used on input line 26.
 (pdftex.def)             Requested size: 455.24408pt x 274.74043pt.
 
-[29
+[30
 
 
- <./integralform.png>] <tau.png, id=146, 851.18pt x 607.26875pt>
+ <./integralform.png>] <tau.png, id=154, 851.18pt x 607.26875pt>
 File: tau.png Graphic file (type png)
 
 <use tau.png>
 Package pdftex.def Info: tau.png used on input line 61.
 (pdftex.def)             Requested size: 364.19664pt x 259.83247pt.
- [30 <./tau.png>]
-Overfull \hbox (13.32198pt too wide) in paragraph at lines 74--87
+ [31 <./tau.png>]
+Overfull \hbox (14.74483pt too wide) in paragraph at lines 74--87
  [][] 
  []
 
-<walkcorr.png, id=150, 1927.2pt x 1084.05pt>
+<walkcorr.png, id=159, 1927.2pt x 1084.05pt>
 File: walkcorr.png Graphic file (type png)
  <use walkcorr.png>
 Package pdftex.def Info: walkcorr.png used on input line 98.
 (pdftex.def)             Requested size: 455.24408pt x 256.07509pt.
- [31 <./walkcorr.png>] <totcorr.png, id=156, 1184.425pt x 825.0825pt>
+ [32 <./walkcorr.png>] <totcorr.png, id=164, 1184.425pt x 825.0825pt>
 File: totcorr.png Graphic file (type png)
  <use totcorr.png>
 Package pdftex.def Info: totcorr.png used on input line 124.
@@ -1222,23 +1397,23 @@ Package pdftex.def Info: totcorr.png used on input line 124.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[32] <CFD_amp.png, id=161, 1091.07625pt x 736.7525pt>
+[33] <CFD_amp.png, id=168, 1091.07625pt x 736.7525pt>
 File: CFD_amp.png Graphic file (type png)
  <use CFD_amp.png>
 Package pdftex.def Info: CFD_amp.png used on input line 165.
 (pdftex.def)             Requested size: 455.24408pt x 307.39915pt.
 
-[33 <./totcorr.png>]) [34 <./CFD_amp.png>]
+[34 <./totcorr.png>]) [35 <./CFD_amp.png>]
 \openout2 = `resultsSIM.aux'.
 
  (./resultsSIM.tex
-<1pesignalexp.png, id=170, 1001.7425pt x 575.14874pt>
+<1pesignalexp.png, id=177, 1001.7425pt x 575.14874pt>
 File: 1pesignalexp.png Graphic file (type png)
  <use 1pesignalexp.png>
 Package pdftex.def Info: 1pesignalexp.png used on input line 9.
 (pdftex.def)             Requested size: 455.24408pt x 261.37715pt.
 
-<simSignal1.png, id=171, 1369.115pt x 694.595pt>
+<simSignal1.png, id=178, 1369.115pt x 694.595pt>
 File: simSignal1.png Graphic file (type png)
  <use simSignal1.png>
 Package pdftex.def Info: simSignal1.png used on input line 20.
@@ -1253,77 +1428,85 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 19--26
  [][] 
  []
 
-<integralSim.png, id=172, 1925.1925pt x 991.705pt>
+<integralSim.png, id=179, 1925.1925pt x 991.705pt>
 File: integralSim.png Graphic file (type png)
  <use integralSim.png>
 Package pdftex.def Info: integralSim.png used on input line 34.
 (pdftex.def)             Requested size: 455.24408pt x 234.5034pt.
 
-[35
+[36
 
 
  <./1pesignalexp.png>]
 Overfull \hbox (0.11842pt too wide) in paragraph at lines 40--41
-\T2A/ftm/bx/n/12 Вре-ме-на сиг-на-лов в дан-ном слу-чае рас-счи-ты-ва-лись ме-т
+\T2A/ptm/bx/n/12 Вре-ме-на сиг-на-лов в дан-ном слу-чае рас-счи-ты-ва-лись ме-т
 о-дом ана-ли-за пе-ред-не-го фрон-
  []
 
-<tausim.png, id=176, 700.6175pt x 475.7775pt>
+<tausim.png, id=183, 700.6175pt x 475.7775pt>
 File: tausim.png Graphic file (type png)
  <use tausim.png>
 Package pdftex.def Info: tausim.png used on input line 44.
 (pdftex.def)             Requested size: 455.24408pt x 309.15732pt.
- [36 <./simSignal1.png> <./integralSim.png>] <ampsim.png, id=181, 700.6175pt x 
+ [37 <./simSignal1.png> <./integralSim.png>] <ampsim.png, id=189, 700.6175pt x 
 475.7775pt>
 File: ampsim.png Graphic file (type png)
 
 <use ampsim.png>
 Package pdftex.def Info: ampsim.png used on input line 52.
 (pdftex.def)             Requested size: 455.24408pt x 309.15732pt.
- [37 <./tausim.png>]) [38 <./ampsim.png>]
+ [38 <./tausim.png>]) [39 <./ampsim.png>]
+\openout2 = `vyvody.aux'.
+
+ (./vyvody.tex)
+[40
+
+
+]
 \openout2 = `bibliography.aux'.
 
  (./bibliography.tex
 Underfull \hbox (badness 2894) in paragraph at lines 24--27
-\T2A/ftm/bx/n/12 Gobain's commitment to the development of high performance mat
+\T2A/ptm/bx/n/12 Gobain's commitment to the development of high performance mat
 erials.
  []
 
-[39
+[41
 
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 82--83
-[]\T2A/ftm/bx/n/12 Heilbronn, Lawrence; Iwata, Yoshiyuki, Iwase, H. Off-line co
+[]\T2A/ptm/bx/n/12 Heilbronn, Lawrence; Iwata, Yoshiyuki, Iwase, H. Off-line co
 rrection
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 82--83
-\T2A/ftm/bx/n/12 for excessive constant-fraction-discriminator walk in neutron 
+\T2A/ptm/bx/n/12 for excessive constant-fraction-discriminator walk in neutron 
 time-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 82--83
-\T2A/ftm/bx/n/12 of-flight experiments, article, October 15, 2003; Berkeley, Ca
+\T2A/ptm/bx/n/12 of-flight experiments, article, October 15, 2003; Berkeley, Ca
 lifornia.
  []
 
 
 Underfull \hbox (badness 8038) in paragraph at lines 82--83
-\T2A/ftm/bx/n/12 (digital.library.unt.edu/ark:/67531/metadc780778/: accessed Ma
+\T2A/ptm/bx/n/12 (digital.library.unt.edu/ark:/67531/metadc780778/: accessed Ma
 y 17, 2017),
  []
 
 
 Underfull \hbox (badness 1997) in paragraph at lines 82--83
-\T2A/ftm/bx/n/12 University of North Texas Libraries, Digital Library, digital.
+\T2A/ptm/bx/n/12 University of North Texas Libraries, Digital Library, digital.
 library.unt.edu;
  []
 
-) [40] (./main.aux (./expert.aux) (./measurements.aux) (./simulations.aux)
-(./dataprocessing.aux) (./results.aux) (./resultsSIM.aux) (./bibliography.aux))
+) [42] (./main.aux (./expert.aux) (./measurements.aux) (./simulations.aux)
+(./dataprocessing.aux) (./results.aux) (./resultsSIM.aux) (./vyvody.aux)
+(./bibliography.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1332,32 +1515,31 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5583 strings out of 494387
- 76673 string characters out of 6172059
- 142756 words of memory out of 5000000
- 8715 multiletter control sequences out of 15000+600000
- 12322 words of font info for 34 fonts, out of 8000000 for 9000
+ 7545 strings out of 494387
+ 105345 string characters out of 6172059
+ 172775 words of memory out of 5000000
+ 10496 multiletter control sequences out of 15000+600000
+ 44917 words of font info for 110 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
- 44i,12n,41p,5138b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,12n,41p,5138b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/ivan/.texlive2016/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk>
  </home/ivan/.texlive2016/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0700.600pk> <
-/home/ivan/.texlive2016/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0800.600pk> </h
-ome/ivan/.texlive2016/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.600pk> </hom
-e/ivan/.texlive2016/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/
-ivan/.texlive2016/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y8.pfb>
-Output written on main.pdf (40 pages, 9645295 bytes).
+/home/ivan/.texlive2016/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0900.600pk>{/us
+r/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/ivan/.texlive201
+6/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.600pk> </home/ivan/.texlive2016/
+texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/ivan/.texlive2016/te
+xmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/u
+syr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (42 pages, 9626332 bytes).
 PDF statistics:
- 561 PDF objects out of 1000 (max. 8388607)
- 145 compressed objects within 2 object streams
+ 570 PDF objects out of 1000 (max. 8388607)
+ 147 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
 
